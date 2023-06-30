@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Rahul Vishwakarma</h1>
 <h3 align="center">A passionate programmer.</h3>
 
-<img align ="right" alt="coding" width="400" src="https://37.media.tumblr.com/7504e68a66376f5e2a7d6c443fd15856/tumblr_n9cmvzeGsf1rhfekio1_500.gif">
+<img align ="right" alt="coding" width="1000" src="https://37.media.tumblr.com/7504e68a66376f5e2a7d6c443fd15856/tumblr_n9cmvzeGsf1rhfekio1_500.gif">
 
 - 💬 Ask me about **anything**
 
@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rahul-vishwakarma-56453222a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rahul-vishwakarma-56453222a" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rahul-vishwakarma-56453222a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rahul-vishwakarma-56453222a" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
